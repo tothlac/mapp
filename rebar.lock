@@ -1,0 +1,16 @@
+{"1.2.0",
+[{<<"edown">>,{pkg,<<"edown">>,<<"0.7.0">>},1},
+ {<<"int_dep1">>,
+  {git,"git@github.com:tothlac/int_dep1.git",
+       {ref,"c8592b725416ef4ea18d2e6d14701574bf363b21"}},
+  0},
+ {<<"int_dep2">>,
+  {git,"git@github.com:tothlac/int_dep2.git",
+       {ref,"3fd4b45514b541ff334c3fba35658acfcac6020c"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"edown">>, <<"6803599606B10F8E328D6D60C44CD16244CD2429908894C415FCE4211C3BFEFD">>}]},
+{pkg_hash_ext,[
+ {<<"edown">>, <<"6D7365A7854CD724E8D1FD005F5FAA4444EAE6A87EB6DF9B789B6E7F6F09110A">>}]}
+].
